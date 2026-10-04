@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.taskmc35byte.impostore",
+        "sha256_cert_fingerprints": ["E7:21:2A:C0:57:BC:26:9C:0F:28:52:8F:50:FE:A3:A8:A3:A3:19:81:6B:D6:E7:1B:E3:CB:1D:43:01:87:38:C7"]
+      }
+    }]
